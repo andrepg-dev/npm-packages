@@ -1,7 +1,4 @@
 class isAndrew {
-  name = 'andrewapi'
-  api_key
-
   constructor(config) {
     this.config = config
     if (!config || !config.api_key) {

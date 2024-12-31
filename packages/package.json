@@ -1,5 +1,5 @@
 {
-  "name": "is-andrew",
+  "name": "@ap_blaze/is-andrew",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
